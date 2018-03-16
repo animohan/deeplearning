@@ -1,0 +1,1 @@
+There are many deep learning resources on the web. These notebooks are my derivative work from many of these resources.  Lectures and homework material from various Stanford courses on neural networks have heavily influenced this work.
